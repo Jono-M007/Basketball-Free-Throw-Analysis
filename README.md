@@ -14,7 +14,9 @@ Investigates player tendencies to take 2-point or 3-point shots (excluding free 
 
 ## Insights and Conclusions
 1.Free throws play a pivotal role in basketball, often determining the outcome of close games.
+
 2.Players who draw more fouls and attempt more free throws tend to exhibit a more aggressive play style. Coupled with higher free throw accuracy, these players can significantly boost a team's overall scoring.
+
 3.Teams can benefit from improving their players' free throw accuracy and maintaining a balance between 2-point and 3-point shooting strategies.
 
 ## Tools and Methodology
